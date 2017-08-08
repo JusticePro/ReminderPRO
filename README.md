@@ -1,11 +1,6 @@
 # ReminderPRO
 
-<head>
-<style type="text/css">
-  #unused {color: red}
-</style>
-</head>
-<h1 id="unused>H</h1>
+<h1 style="color: red">H</h1>
 <h1>Download</h1>
 You can download this <a href="https://github.com/JusticePro/ReminderPRO/releases">here</a>!<br>
 <h1>What Langauge Did I use?</h1>
